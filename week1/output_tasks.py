@@ -16,3 +16,11 @@ print("\" Displays a double quote")
 print("\' Displays a single quote")
 print()
 print("\t\"I am programming!\"")
+print()
+# Display a box
+print("##########")
+print("#        #")
+print("#        #")
+print("##########")
+print()
+#ASCII of a robot
