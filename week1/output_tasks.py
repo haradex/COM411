@@ -22,5 +22,4 @@ print("##########")
 print("#        #")
 print("#        #")
 print("##########")
-print()
-#ASCII of a robot
+
